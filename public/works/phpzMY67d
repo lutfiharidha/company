@@ -1,0 +1,147 @@
+<html>
+<head>
+<title> Riwayat Hidup </title>
+<body>
+	<tr>
+	<table width="600" border"2" align="center" cellpadding="7" cellspacing="2" bgcolor="#00CCFF">
+	<th colspan="5" height="65">
+	<p> BIODATA <p>
+	</th>
+	</tr>
+
+	<tr>
+	<table width="600" border"2" align="center" cellpadding="7" cellspacing="2" bgcolor="white">
+	 <tr>
+	 <td width="200"><img width="100" src="680e4651-cea9-4e92-9e47-bd5c93735495.jpeg"><!-- Ganti isi dalam src dengan file foto -->
+	 </tr>
+	<td width="200"><b> Nama </b>
+	</td>
+		<td width="23"></td>
+		<td>: Nadia Raudhani </td>
+		<td rowspan="6" height="200" width="200"><p><img src= ></p></td>
+	</tr>
+	
+	<tr>
+	<td width="200"><b> Tempat, Tanggal Lahir </b>
+	</td>
+		<td width=""><div align="center"></div></td>
+		<td>: Ulee Madon, 17 April 1999 </td>
+	</tr>
+	
+	<tr>
+	<td width="153"><b> Jenis Kelamin </b>
+	</td>
+		<td width="23"><div align="center"></div></td>
+		<td width="326">: Perempuan </td>
+	</tr>
+	
+	<tr>
+	<td width="153"><b> Agama </b>
+	</td>
+		<td width="23"><div align="center"></div></td>
+		<td width="326">: Islam </td>
+	</tr>
+	
+	<tr>
+	<td width="153"><b> Alamat </b>
+	</td>
+		<td width="23"><div align="center"></div></td>
+		<td width="326">: Ulee Madon </td>
+	</tr>
+	
+	<tr>
+	<td width="153"><b> Hobi </b>
+	</td>
+		<td width="23"><div align="center"></div></td>
+		<td width="326">: Menyanyi dan Memasak </td>
+	</tr>
+	
+	<tr>
+	<td width="153"><b> E-mail </b>
+	</td>
+		<td width="23"><div align="center"></div></td>
+		<td width="326">: nadiaraudh.nurzi@gmail.com </td>
+	</tr>
+	
+	<tr>
+	<td width="153"><b> No. HP </b>
+	</td>
+		<td width="23"><div align="center"></div></td>
+		<td width="326">: 0822 7408 4930 </td>
+	</tr>
+	
+	<tr>
+	<table width="600" border"2" align="center" cellpadding="4" cellspacing="1" bgcolor="#00CCFF">
+	<th colspan="5" height="65">
+	<p> RIWAYAT PENDIDIKAN <p>
+	</th>
+	</tr>
+	
+	<tr>
+	<td width="153"> <p> R.A Al - Ikhlas </p>
+	</td>
+		<td width="23"><div align="center"></div></td>
+		<td width="326">: 2004 - 2005 </td>
+	</tr>
+	
+	<tr>
+	<td width="153"> <p> SDN 4 Muara Batu </p>
+	</td>
+		<td width="23"><div align="center"></div></td>
+		<td width="326">: 2005 - 2011 </td>
+	</tr>
+	
+	<tr>
+	<td width="153"> <p> MTsN Model Gandapura </p>
+	</td>
+		<td width="23"><div align="center"></div></td>
+		<td width="326">: 2011 - 2014 </td>
+	</tr>
+	
+	<tr>
+	<td width="153"> <p> SMKN 1 Muara Batu </p>
+	</td>
+		<td width="23"><div align="center"></div></td>
+		<td width="326">: 2014 - 2017 </td>
+	</tr>
+	
+	
+	<tr>
+	<table width="600" border"2" align="center" cellpadding="4" cellspacing="1" bgcolor="#00CCFF">
+	<th colspan="5" height="65">
+	<p> PRESTASI <p>
+	</th>
+	</tr>
+	
+	<tr>
+	<td width="200"><p> Juara 3 Pembacaan Ayat Shalat </p>
+	</td>
+		<td width="23"><div align="center"></div></td>
+		<td width="326"> Tahun 2009 </td>
+	</tr>
+	
+	<tr>
+	<td width="200"> <p> Juara 3 Vocal solo Wanita </p>
+	</td>
+		<td width="23"><div align="center"></div></td>
+		<td width="326"> Tahun 2014 </td>
+	</tr>
+	
+	<tr>
+	<td width="200"> <p> Juara 3 Tari Saman </p>
+	</td>
+		<td width="23"><div align="center"></div></td>
+		<td width="326"> Tahun 2016 </td>
+	</tr>
+	
+	<tr>
+	<td width="200"> <p> Juara 2 Vocal Grup Campuran </p>
+	</td>
+		<td width="23"><div align="center"></div></td>
+		<td width="326"> Tahun 2016 </td>
+	</tr>
+	
+	
+</body>
+</head>
+</html>
